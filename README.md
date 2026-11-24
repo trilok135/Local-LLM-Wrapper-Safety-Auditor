@@ -1,6 +1,5 @@
 <div align="center">
 
-# 🛡️ GuardrailScope
 
 ### Local LLM & Wrapper Safety Auditor
 
